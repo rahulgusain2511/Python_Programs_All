@@ -1,0 +1,5 @@
+Rollno	Name	Marks	Class
+1	Mayank	90	12
+2	Sumit	66	12
+3	Mohit	55	12
+4	Rahul	89	12

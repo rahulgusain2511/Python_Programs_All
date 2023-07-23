@@ -1,0 +1,7 @@
+name = input('Enter your name: ')
+st = 'Hello {}, How are you'.format(name)
+print(st)
+st = 'The cost of {0} book is {1}'.format('Computer Science',600)
+print(st)
+st = 'The cost of {book} book is {cost}'.format(book='Computer Science', cost=600)
+print(st)

@@ -1,0 +1,43 @@
+
+Rollno: 1
+Name: SUMEET
+Class: 12
+Age: 18
+Percentage: 88
+-------------------
+Rollno: 2
+Name: Motu
+Class: 12
+Age: 10
+Percentage: 100
+-------------------
+Rollno: 3
+Name: Patlu
+Class: 12
+Age: 12
+Percentage: 100
+-------------------
+Rollno: 9
+Name: tinku
+Class: 9
+Age: 13
+Percentage: 90
+-------------------
+Rollno: 12
+Name: Minku
+Class: 11
+Age: 16
+Percentage: 75
+-------------------
+Rollno: 12
+Name: heyz
+Class: 2
+Age: 7
+Percentage: 91
+-------------------
+Rollno: 12
+Name: Amit
+Class: 12
+Age: 17
+Percentage: 88
+-------------------

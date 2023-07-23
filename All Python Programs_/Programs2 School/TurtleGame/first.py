@@ -1,0 +1,13 @@
+from turtle import *
+showturtle()
+shape('turtle')
+fillcolor('red')
+left(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+position()(45.25,45.25)

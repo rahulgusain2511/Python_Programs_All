@@ -1,0 +1,4 @@
+read(): to read the entire data from the file.
+read(n): to read 'n' characters from the file.
+readline(): to read only one line from the file.
+readlines(): to read all the lines from the file into a list.

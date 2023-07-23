@@ -1,0 +1,7 @@
+file = open('Blankfile.txt','w')
+print('FileName:',file.name)
+print('FileMode:',file.mode)
+print('Is File Readable:',file.readable())
+print('Is File closed:',file.closed)
+file.close()
+print('Is File closed:',file.closed)

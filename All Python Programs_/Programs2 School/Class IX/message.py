@@ -1,0 +1,3 @@
+print('WELCOME IN PYTHON')
+print('HOPE YOU LIKE THE LANGUAGE')
+print('BYE BYE')
